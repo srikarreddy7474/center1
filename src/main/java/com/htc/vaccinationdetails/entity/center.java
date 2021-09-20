@@ -18,7 +18,7 @@ public class center {
 	
 	public center() {
 		super();
-		// TODO Auto-generated constructor stub
+		
 	}
 
 
@@ -92,8 +92,8 @@ public class center {
 
 	@Override
 	public String toString() {
-		return "vaccinationcenter [centre_id=" + centreid + ", centre_address=" + centreaddress + ", pincode="
-				+ pincode + ", scheduled_date_time=" + scheduleddatetime + "]";
+		return "vaccinationcenter [centreid=" + centreid + ", centreaddress=" + centreaddress + ", pincode="
+				+ pincode + ", scheduleddatetime=" + scheduleddatetime + "]";
 	}
 	
 }
